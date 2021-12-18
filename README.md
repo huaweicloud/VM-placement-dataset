@@ -13,6 +13,15 @@ We encourage anyone to use the datasets for study or research purposes, and if y
 
 We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785).
 
+```BibTeX
+@article{sheng2021vmagent,
+  title={VMAgent: Scheduling Simulator for Reinforcement Learning},
+  author={Sheng, Junjie and Cai, Shengliang and Cui, Haochuan and Li, Wenhao and Hua, Yun and Jin, Bo and Zhou, Wenli and Hu, Yiqiu and Zhu, Lei and Peng, Qian and others},
+  journal={arXiv preprint arXiv:2112.04785},
+  year={2021}
+}
+```
+
 
 In future, we will try to release new datasets, please stay tuned.
 
@@ -31,7 +40,16 @@ The project has created the first standard data set of virtual machine schedulin
 ## Outcomes from the datasets
 
 The original intention of our standard datasets for virtual machine scheduling is to provide more algorithms and projects as standards for training, so as to better promote the development of the industry. It is a huge encouragement to us to see more works using our data. 
-We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785)
+We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785).
+
+```BibTeX
+@article{sheng2021vmagent,
+  title={VMAgent: Scheduling Simulator for Reinforcement Learning},
+  author={Sheng, Junjie and Cai, Shengliang and Cui, Haochuan and Li, Wenhao and Hua, Yun and Jin, Bo and Zhou, Wenli and Hu, Yiqiu and Zhu, Lei and Peng, Qian and others},
+  journal={arXiv preprint arXiv:2112.04785},
+  year={2021}
+}
+```
 
 ### Projects using VM Placement Datasets
 
