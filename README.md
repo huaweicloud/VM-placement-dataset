@@ -9,7 +9,7 @@ So far, one dataset has been released:
 
 * *Huawei-East-1* includes about 125429 data, which is formed with 5 attributes:vmid,cpu,memory,time and type. The Huawei-East-1 is the first standard dataset for virtual machine scheduling which can help different scheduling algorithms. To see more about this dataset, see related documents ([Huawei-East-1](./Huawei-East-1/README.md)). 
 
-We encourage anyone to use the datasets for study or research purposes, and if you had any question when using the datasets, please contact us via email: [alibaba-clusterdata](mailto:alibaba-clusterdata@list.alibaba-inc.com), or file an issue on Github. Filing an issue is recommanded as the discussion would help all the community. Note that the more clearly you ask the question, the more likely you would get a clear answer.
+We encourage anyone to use the datasets for study or research purposes, and if you had any question when using the datasets, please file an issue on Github. Filing an issue is recommanded as the discussion would help all the community. Note that the more clearly you ask the question, the more likely you would get a clear answer.
 
 It would be much appreciated if you could tell us once any publication using our datasets is available, as we are maintaining a list of related publicatioins for more researchers to better communicate with each other.
 
@@ -25,11 +25,11 @@ The project has created the first standard data set of virtual machine schedulin
 2. **Help Huawei's cloud development**. By promoting the development of virtual machine scheduling algorithms, the understanding of scheduling problems can be continuously deepened. Meanwhile, it can develop the platform for industry-university research cooperation , and increase sales persuasion, which attachs great importance for [HUAWEI Cloud](https://www.huaweicloud.com).
 
 
-3. **Attract talents and experts to pay attention to scheduling problems**. At present, there is no standard datasets for virtual machine scheduling. This project hopes that after creating the standard datasets, it can stimulate academic cooperation, and attract more talents and experts to pay attention to scheduling problems.If you had any idea in your mind, please contact us via (xxxxxxxxxxx).
+3. **Attract talents and experts to pay attention to scheduling problems**. At present, there is no standard datasets for virtual machine scheduling. This project hopes that after creating the standard datasets, it can stimulate academic cooperation, and attract more talents and experts to pay attention to scheduling problems.If you had any idea in your mind, please file an issue.
 
 ## Outcomes from the datasets
 
-The original intention of our standard datasets for virtual machine scheduling is to provide more algorithms and projects as standards for training, so as to better promote the development of the industry. It is a huge encouragement to us to see more works using our data. **If your paper uses our datasets, it would be great if you let us know by sending us email** ([vm-placement-datasets](xxxxxxxxxxxxxx)).
+The original intention of our standard datasets for virtual machine scheduling is to provide more algorithms and projects as standards for training, so as to better promote the development of the industry. It is a huge encouragement to us to see more works using our data. 
 
 ### Projects using VM Placement Datasets
 
@@ -40,6 +40,10 @@ The original intention of our standard datasets for virtual machine scheduling i
 * Junjie Sheng, Shengliang Cai, Haochuan Cui, Wenhao Li, Yun Hua, Bo Jin, Wenli Zhou, Yiqiu Hu, Lei Zhu, Qian Peng, Hongyuan Zha and Xiangfeng Wang, [VMAgent: Scheduling Simulator for Reinforcement Learning](https://arxiv.org/abs/2112.04785). arXiv preprint arXiv:2112.04785, 2021.
 * Junjie Sheng, Yiqiu Hu, Wenli Zhou, Lei Zhu, Bo Jin, Jun Wang and Xiangfeng Wang, [Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004349), Pattern Recognition, 121, 2021, pp.108254.
 
-### Future works
+
+## LISCENCE
+Licensed under the [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA) License.
+
+## Future works
 
 More datasets will be released in future.
