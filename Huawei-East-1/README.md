@@ -3,7 +3,7 @@ Huawei-East-1
 
 * *Huawei-East-1* includes about 125429 data, which is formed with 5 attributes:vmid,cpu,memory,time and type. The Huawei-East-1 is the first standard dataset for virtual machine scheduling which can help different scheduling algorithms. 
 
-We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). Please follow the [open source protocol](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA) when using datasets.
+We are open source based on [CC-BY-NC](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE). Please follow the [open source protocol](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE) when using datasets.
 
 Data Format
 --------------------

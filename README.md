@@ -3,7 +3,7 @@
 ## Overview
 
 The *VM Placements Datasets* is published by Huawei Group. By providing the standard datasets of virtual machine scheduling, it can help researchers better study and train the virtual machine scheduling algorithms.
-We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). Please follow the [open source protocol](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA) when using datasets.
+We are open source based on [CC-BY-NC](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE). Please follow the [open source protocol](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE) when using datasets.
 
 So far, one dataset has been released:
 
@@ -11,7 +11,7 @@ So far, one dataset has been released:
 
 We encourage anyone to use the datasets for study or research purposes, and if you had any question when using the datasets, please file an issue on Github. Filing an issue is recommanded as the discussion would help all the community. Note that the more clearly you ask the question, the more likely you would get a clear answer.
 
-We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785).
+We are open source based on [CC-BY-NC](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785).
 
 ```BibTeX
 @article{sheng2021vmagent,
@@ -40,7 +40,7 @@ The project has created the first standard data set of virtual machine schedulin
 ## Outcomes from the datasets
 
 The original intention of our standard datasets for virtual machine scheduling is to provide more algorithms and projects as standards for training, so as to better promote the development of the industry. It is a huge encouragement to us to see more works using our data. 
-We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785).
+We are open source based on [CC-BY-NC](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE). When using datasets, please follow the open source protocol, and cite our [paper](https://arxiv.org/abs/2112.04785).
 
 ```BibTeX
 @article{sheng2021vmagent,
@@ -62,7 +62,7 @@ We are open source based on [CC-BY-NC](https://github.com/santisoler/cc-licenses
 
 
 ## LISCENCE
-Licensed under the [CC-BY-NC](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-NC-SA) License.
+Licensed under the [CC-BY-NC](https://github.com/huaweicloud/VM-placement-dataset/blob/main/Huawei-East-1/LICENSE) License.
 
 ## Future works
 
